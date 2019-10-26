@@ -1,0 +1,2 @@
+# dingji
+for dingji game
